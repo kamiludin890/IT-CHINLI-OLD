@@ -1,0 +1,4 @@
+INSERT INTO `master_menu` (`id`, `urut`, `induk`, `map`, `judul`, `url`, `status`, `tanggal`, `validasi`, `validasi_by`, `pembuat`, `tgl_dibuat`, `tgl_revisi`, `ket_revisi`) VALUES
+(46,	3,	0,	'',	'Ppic',	'?mod=ppic/home',	'sembunyi',	'2021-01-01',	'',	'',	'',	'0000-00-00 00:00:00',	'0000-00-00 00:00:00',	''),
+(54,	3,	46,	'Ppic',	'Inventory',	'?mod=ppic/inventory',	'tampil',	'2021-01-01',	'',	'',	'',	'0000-00-00 00:00:00',	'0000-00-00 00:00:00',	''),
+(55,	3,	46,	'Ppic',	'Laporan',	'?mod=ppic/laporan',	'tampil',	'2021-01-01',	'',	'',	'',	'0000-00-00 00:00:00',	'0000-00-00 00:00:00',	'');

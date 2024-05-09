@@ -1,0 +1,7 @@
+INSERT INTO `master_menu` (`id`, `urut`, `induk`, `map`, `judul`, `url`, `status`, `tanggal`, `validasi`, `validasi_by`, `pembuat`, `tgl_dibuat`, `tgl_revisi`, `ket_revisi`) VALUES
+(45,	3,	0,	'',	'Sales',	'?mod=sales/home',	'tampil',	'2021-01-01',	'',	'',	'',	'0000-00-00 00:00:00',	'0000-00-00 00:00:00',	''),
+(48,	2,	45,	'Sales',	'Quotation',	'?mod=sales/quotation',	'tampil',	'2021-01-01',	'',	'',	'',	'0000-00-00 00:00:00',	'0000-00-00 00:00:00',	''),
+(49,	1,	45,	'Sales',	'Po',	'?mod=sales/po',	'tampil',	'2021-01-01',	'',	'',	'',	'0000-00-00 00:00:00',	'0000-00-00 00:00:00',	''),
+(50,	3,	45,	'Sales',	'Claim',	'?mod=sales/claim',	'tampil',	'2021-01-01',	'',	'',	'',	'0000-00-00 00:00:00',	'0000-00-00 00:00:00',	''),
+(51,	3,	45,	'Sales',	'Sample',	'?mod=sales/sample',	'tampil',	'2021-01-01',	'',	'',	'',	'0000-00-00 00:00:00',	'0000-00-00 00:00:00',	''),
+(52,	3,	45,	'Sales',	'Salesreport',	'?mod=sales/salesreport',	'sembunyi',	'2021-01-01',	'',	'',	'',	'0000-00-00 00:00:00',	'0000-00-00 00:00:00',	'');

@@ -1,0 +1,8 @@
+INSERT INTO `master_menu` (`id`, `urut`, `induk`, `map`, `judul`, `url`, `status`, `tanggal`, `validasi`, `validasi_by`, `pembuat`, `tgl_dibuat`, `tgl_revisi`, `ket_revisi`) VALUES
+(63,	3,	0,	'',	'Delivery',	'?mod=delivery/home',	'tampil',	'2021-01-01',	'',	'',	'',	'0000-00-00 00:00:00',	'0000-00-00 00:00:00',	''),
+(62,	3,	46,	'Delivery',	'Invoice',	'?mod=delivery/invoice',	'tampil',	'2021-01-01',	'',	'',	'',	'0000-00-00 00:00:00',	'0000-00-00 00:00:00',	''),
+(64,	3,	63,	'Delivery',	'Sales_contract',	'?mod=delivery/sales_contract',	'tampil',	'2021-01-01',	'',	'',	'',	'0000-00-00 00:00:00',	'0000-00-00 00:00:00',	''),
+(65,	3,	63,	'Delivery',	'Suratjalan',	'?mod=delivery/suratjalan',	'tampil',	'2021-01-01',	'',	'',	'',	'0000-00-00 00:00:00',	'0000-00-00 00:00:00',	''),
+(66,	3,	63,	'Delivery',	'Report_delivery',	'?mod=delivery/report',	'sembunyi',	'2021-01-01',	'',	'',	'',	'0000-00-00 00:00:00',	'0000-00-00 00:00:00',	''),
+(78,	3,	63,	'Delivery',	'Packinglist',	'?mod=delivery/packinglist',	'tampil',	'2021-01-01',	'',	'',	'',	'0000-00-00 00:00:00',	'0000-00-00 00:00:00',	''),
+(53,	3,	46,	'Ppic',	'Delivery',	'?mod=ppic/delivery',	'tampil',	'2021-01-01',	'',	'',	'',	'0000-00-00 00:00:00',	'0000-00-00 00:00:00',	'');

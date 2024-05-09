@@ -1,0 +1,6 @@
+INSERT INTO `master_menu` (`id`, `urut`, `induk`, `map`, `judul`, `url`, `status`, `tanggal`, `validasi`, `validasi_by`, `pembuat`, `tgl_dibuat`, `tgl_revisi`, `ket_revisi`) VALUES
+(69,	1,	0,	'',	'Report',	'?mod=report/home',	'tampil',	'2021-01-01',	'',	'',	'',	'0000-00-00 00:00:00',	'0000-00-00 00:00:00',	''),
+(70,	1,	69,	'Report',	'Jadwalproduksi',	'?mod=report/jadwalproduksi',	'tampil',	'2021-01-01',	'',	'',	'',	'0000-00-00 00:00:00',	'0000-00-00 00:00:00',	''),
+(71,	1,	69,	'Report',	'Laporanproduksi',	'?mod=report/laporanproduksi',	'tampil',	'2021-01-01',	'',	'',	'',	'0000-00-00 00:00:00',	'0000-00-00 00:00:00',	''),
+(72,	1,	69,	'Report',	'Spkproduksi',	'?mod=report/spkproduksi',	'tampil',	'2021-01-01',	'',	'',	'',	'0000-00-00 00:00:00',	'0000-00-00 00:00:00',	''),
+(75,	1,	69,	'Report',	'Formula',	'?mod=report/formula',	'tampil',	'2021-01-01',	'',	'',	'',	'0000-00-00 00:00:00',	'0000-00-00 00:00:00',	'');

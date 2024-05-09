@@ -1,0 +1,7 @@
+INSERT INTO `master_menu` (`id`, `urut`, `induk`, `map`, `judul`, `url`, `status`, `tanggal`, `validasi`, `validasi_by`, `pembuat`, `tgl_dibuat`, `tgl_revisi`, `ket_revisi`) VALUES
+(84,	2,	0,	'',	'Salescl',	'?mod=salescl/home',	'tampil',	'2021-01-01',	'',	'',	'',	'0000-00-00 00:00:00',	'0000-00-00 00:00:00',	''),
+(83,	1,	84,	'Salescl',	'Po',	'?mod=salescl/po',	'tampil',	'2021-01-01',	'',	'',	'',	'0000-00-00 00:00:00',	'0000-00-00 00:00:00',	''),
+(85,	2,	84,	'Salescl',	'claim',	'?mod=salescl/claim',	'tampil',	'2021-01-01',	'',	'',	'',	'0000-00-00 00:00:00',	'0000-00-00 00:00:00',	''),
+(86,	3,	84,	'Salescl',	'quotation',	'?mod=salescl/quotation',	'tampil',	'2021-01-01',	'',	'',	'',	'0000-00-00 00:00:00',	'0000-00-00 00:00:00',	''),
+(87,	4,	84,	'Salescl',	'salesreport',	'?mod=salescl/salesreport',	'sembunyi',	'2021-01-01',	'',	'',	'',	'0000-00-00 00:00:00',	'0000-00-00 00:00:00',	''),
+(88,	5,	84,	'Salescl',	'sample',	'?mod=salescl/sample',	'tampil',	'2021-01-01',	'',	'',	'',	'0000-00-00 00:00:00',	'0000-00-00 00:00:00',	'');

@@ -1,0 +1,16 @@
+INSERT INTO `master_menu` (`id`, `urut`, `induk`, `map`, `judul`, `url`, `status`, `tanggal`, `validasi`, `validasi_by`, `pembuat`, `tgl_dibuat`, `tgl_revisi`, `ket_revisi`) VALUES
+(47,	6,	0,	'',	'Admin',	'?mod=admin/home',	'tampil',	'2021-01-01',	'',	'',	'',	'0000-00-00 00:00:00',	'0000-00-00 00:00:00',	''),
+(16,	16,	15,	'admin',	'Kontak',	'?menu=home&mod=admin/kontak',	'sembunyi',	'2021-01-01',	'',	'',	'',	'0000-00-00 00:00:00',	'0000-00-00 00:00:00',	''),
+(17,	17,	15,	'admin',	'Beli',	'?menu=home&mod=admin/beli',	'tampil',	'2021-01-01',	'',	'',	'',	'0000-00-00 00:00:00',	'0000-00-00 00:00:00',	''),
+(18,	18,	15,	'admin',	'Jual',	'?menu=home&mod=admin/jual',	'tampil',	'2021-01-01',	'',	'',	'',	'0000-00-00 00:00:00',	'0000-00-00 00:00:00',	''),
+(19,	19,	15,	'admin',	'Tagihan',	'?menu=home&mod=admin/tagihan',	'tampil',	'2021-01-01',	'',	'',	'',	'0000-00-00 00:00:00',	'0000-00-00 00:00:00',	''),
+(20,	20,	15,	'admin',	'Laporan',	'?menu=home&mod=admin/laporan',	'tampil',	'2021-01-01',	'',	'',	'',	'0000-00-00 00:00:00',	'0000-00-00 00:00:00',	''),
+(29,	0,	15,	'admin',	'Laba',	'?mod=admin/laba',	'tampil',	'2021-01-01',	'',	'',	'',	'0000-00-00 00:00:00',	'0000-00-00 00:00:00',	''),
+(32,	18,	15,	'admin',	'Kasir',	'?menu=home&mod=admin/kasir',	'sembunyi',	'2021-01-01',	'',	'',	'',	'0000-00-00 00:00:00',	'0000-00-00 00:00:00',	''),
+(56,	6,	47,	'Admin',	'Purchasing',	'?mod=admin/purchasing',	'tampil',	'2021-01-01',	'',	'',	'',	'0000-00-00 00:00:00',	'0000-00-00 00:00:00',	''),
+(57,	6,	47,	'Admin',	'Pop',	'?mod=admin/pop',	'tampil',	'2021-01-01',	'',	'',	'',	'0000-00-00 00:00:00',	'0000-00-00 00:00:00',	''),
+(58,	6,	47,	'Admin',	'Laporan',	'?mod=admin/laporan',	'sembunyi',	'2021-01-01',	'',	'',	'',	'0000-00-00 00:00:00',	'0000-00-00 00:00:00',	''),
+(77,	1,	69,	'admin',	'Pembelian',	'?mod=admin/pembelian',	'sembunyi',	'2021-01-01',	'',	'',	'',	'0000-00-00 00:00:00',	'0000-00-00 00:00:00',	''),
+(79,	1,	47,	'Admin',	'Purchasingimport',	'?mod=admin/purchasingimport',	'sembunyi',	'2021-01-01',	'',	'',	'',	'0000-00-00 00:00:00',	'0000-00-00 00:00:00',	''),
+(80,	1,	47,	'Admin',	'Poimport',	'?mod=admin/poimport',	'tampil',	'2021-01-01',	'',	'',	'',	'0000-00-00 00:00:00',	'0000-00-00 00:00:00',	''),
+(81,	1,	69,	'admin',	'Popurchasing',	'?mod=admin/popurchasing',	'tampil',	'2021-01-01',	'',	'',	'',	'0000-00-00 00:00:00',	'0000-00-00 00:00:00',	'');
